@@ -1,5 +1,5 @@
-Superstore Product Recommendation & Sales Analysis
-📌 Project Overview
+# Superstore Product Recommendation & Sales Analysis
+## 📌 Project Overview
 This project analyzes customer purchasing behaviors and enhances product recommendations using the Superstore dataset. The analysis helps businesses understand sales trends, optimize marketing efforts, and increase profitability.
 
 📂 Dataset Structure
