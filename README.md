@@ -67,7 +67,7 @@ We implemented K-Means clustering for customer segmentation and collaborative fi
 ## ⚠ Assumptions & Caveats
 ### 🔸 The recommendation system assumes that customer preferences remain consistent over time.
 ### 🔸 External factors like market trends or competitor actions were not considered.
-###🔸 The clustering model may require adjustments as new customer behavior emerges.
+### 🔸 The clustering model may require adjustments as new customer behavior emerges.
 
 ## 📌 Final Thoughts
 This project demonstrates the power of data-driven decision-making. By combining customer segmentation and recommendation systems, businesses can boost profitability, improve customer engagement, and optimize sales strategies. 🚀
