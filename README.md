@@ -52,11 +52,11 @@ We implemented K-Means clustering for customer segmentation and collaborative fi
 #### 💡 Insight: North Dakota has low profitability and sales potential.
 #### ✅ Action: Conduct market research, offer region-specific promotions, and optimize pricing.
 
-## 📌 Resources & Links
-### 📌 SQL Queries – Business-related queries for sales and customer analysis [Link]
-### 📌 Interactive Tableau Dashboard – Sales insights & trend analysis [Link]
-### 📌 Python Pipeline – EDA, Model Building, and Recommendation System Deployment [Link]
-### 📌 Recommendation App Demo – GUI for product recommendations [Link]
+## 📌 Resources
+### 📌 SQL Queries – Business-related queries for sales and customer analysis 
+### 📌 Interactive Tableau Dashboard – Sales insights & trend analysis 
+### 📌 Python Pipeline – EDA, Model Building, and Recommendation System Deployment
+### 📌 Recommendation App Demo – GUI for product recommendations
 
 ## 📊 Dashboard Previews
 ![image](https://github.com/user-attachments/assets/75b309fe-786c-4b92-bc43-40456cebe1db)
