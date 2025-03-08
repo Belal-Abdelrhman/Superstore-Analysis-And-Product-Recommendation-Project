@@ -59,10 +59,17 @@ We implemented K-Means clustering for customer segmentation and collaborative fi
 ### 📌 Recommendation App Demo – GUI for product recommendations
 
 ## 📊 Dashboard Previews
+### Tableau
 ![image](https://github.com/user-attachments/assets/75b309fe-786c-4b92-bc43-40456cebe1db)
 ![image](https://github.com/user-attachments/assets/6646f50c-af8e-4c57-884c-a41b8ab00a5a)
 ![image](https://github.com/user-attachments/assets/956d7d26-ab37-4ed9-b994-1f3b046d0d76)
 ![image](https://github.com/user-attachments/assets/12776648-984e-4f30-880d-e2e0800acc51)
+
+### Power BI
+![image](https://github.com/user-attachments/assets/65b0836a-3705-4f47-9ca6-5022c4dd303d)
+![image](https://github.com/user-attachments/assets/a1ef9ec6-b5c0-4c85-b8ea-1f3976f453e0)
+![image](https://github.com/user-attachments/assets/791d6bbe-2126-4de4-ba9c-c64d534fbd4f)
+
 
 ## ⚠ Assumptions & Caveats
 ### 🔸 The recommendation system assumes that customer preferences remain consistent over time.
