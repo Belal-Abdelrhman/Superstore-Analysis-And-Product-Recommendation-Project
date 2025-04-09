@@ -59,18 +59,9 @@ We implemented K-Means clustering for customer segmentation and collaborative fi
 ### 📌 Recommendation App Demo – GUI for product recommendations
 
 ## 📊 Dashboard Previews
-### Tableau
-![image](https://github.com/user-attachments/assets/75b309fe-786c-4b92-bc43-40456cebe1db)
-![image](https://github.com/user-attachments/assets/6646f50c-af8e-4c57-884c-a41b8ab00a5a)
-![image](https://github.com/user-attachments/assets/956d7d26-ab37-4ed9-b994-1f3b046d0d76)
-![image](https://github.com/user-attachments/assets/12776648-984e-4f30-880d-e2e0800acc51)
+![08 04 2025_23 14 22_REC](https://github.com/user-attachments/assets/99eb1994-f8f2-4e8a-87eb-d0206cb62422)
 
-### Power BI
-![image](https://github.com/user-attachments/assets/65b0836a-3705-4f47-9ca6-5022c4dd303d)
-
-![image](https://github.com/user-attachments/assets/a1ef9ec6-b5c0-4c85-b8ea-1f3976f453e0)
-
-![image](https://github.com/user-attachments/assets/791d6bbe-2126-4de4-ba9c-c64d534fbd4f)
+https://github.com/user-attachments/assets/f2e535d4-f8d7-4bb4-ad43-6b131f81261f
 
 
 ## ⚠ Assumptions & Caveats
@@ -81,4 +72,3 @@ We implemented K-Means clustering for customer segmentation and collaborative fi
 ## 📌 Final Thoughts
 This project demonstrates the power of data-driven decision-making. By combining customer segmentation and recommendation systems, businesses can boost profitability, improve customer engagement, and optimize sales strategies. 🚀
 
-## Want to discuss improvements or potential extensions? Let's connect! 😊
