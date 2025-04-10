@@ -60,6 +60,7 @@ We implemented K-Means clustering for customer segmentation and collaborative fi
 
 ## 📊 Dashboard Previews
 https://github.com/user-attachments/assets/e2c3d765-6fab-4a52-b536-1b09e3345c8d
+
 ![Screenshot_10-4-2025_202951_app powerbi com](https://github.com/user-attachments/assets/459dfb85-b65d-475e-884f-4bf4e0595449)
 
 
