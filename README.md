@@ -26,7 +26,7 @@ We implemented K-Means clustering for customer segmentation and collaborative fi
 #### ✔ Product Recommendation System – Collaborative filtering to suggest relevant products.
 
 ### 🔹 3. Visualization & Insights
-#### ✔ Tableau Dashboards – Interactive visualizations for sales, customer trends, and product performance.
+#### ✔ Power BI Dashboards – Interactive visualizations for sales, customer trends, and product performance.
 #### ✔ Matplotlib & Seaborn – For trend analysis and visual storytelling.
 
 ### 🔹 4. Deployment & App Integration
@@ -35,7 +35,7 @@ We implemented K-Means clustering for customer segmentation and collaborative fi
 ## 📌 Tech Stack Used
 ### 🟢 Programming: Python (Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib)
 ### 🟢 Machine Learning: K-Means Clustering, Collaborative Filtering
-### 🟢 Data Visualization: Tableau, Matplotlib, Seaborn
+### 🟢 Data Visualization: Power BI, Matplotlib, Seaborn
 ### 🟢 Database Queries: SQL
 ### 🟢 Deployment: Tkinter (GUI)
 
@@ -54,14 +54,13 @@ We implemented K-Means clustering for customer segmentation and collaborative fi
 
 ## 📌 Resources
 ### 📌 SQL Queries – Business-related queries for sales and customer analysis 
-### 📌 Interactive Tableau Dashboard – Sales insights & trend analysis 
+### 📌 Interactive Power BI Dashboard – Sales insights & trend analysis 
 ### 📌 Python Pipeline – EDA, Model Building, and Recommendation System Deployment
 ### 📌 Recommendation App Demo – GUI for product recommendations
 
 ## 📊 Dashboard Previews
-https://github.com/user-attachments/assets/e2c3d765-6fab-4a52-b536-1b09e3345c8d
-
-![Screenshot_10-4-2025_202951_app powerbi com](https://github.com/user-attachments/assets/459dfb85-b65d-475e-884f-4bf4e0595449)
+https://github.com/user-attachments/assets/9e1ecd85-327d-46dd-a508-dffa92b165dc
+![30 04 2025_23 07 22_REC](https://github.com/user-attachments/assets/542aa8c0-9dfb-4ef5-9d72-502c54468ba6)
 
 
 
