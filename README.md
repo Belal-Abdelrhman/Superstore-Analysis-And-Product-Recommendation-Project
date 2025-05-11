@@ -60,6 +60,7 @@ We implemented K-Means clustering for customer segmentation and collaborative fi
 
 ## 📊 Dashboard Previews
 https://github.com/user-attachments/assets/9e1ecd85-327d-46dd-a508-dffa92b165dc
+
 ![30 04 2025_23 07 22_REC](https://github.com/user-attachments/assets/542aa8c0-9dfb-4ef5-9d72-502c54468ba6)
 
 
